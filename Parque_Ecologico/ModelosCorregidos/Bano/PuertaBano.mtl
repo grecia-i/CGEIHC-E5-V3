@@ -1,0 +1,13 @@
+# Blender 4.5.4 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl blue_plastic
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Proyecto Final/Baño/textures/Plastic_Toilet_Cabin_LP_blue_plastic_BaseC.png
+map_Ns C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Proyecto Final/Baño/source/textures_2k/Plastic Toilet Cabin LP_blue plastic_Roughness.png
+map_refl C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Proyecto Final/Baño/source/textures_2k/Plastic Toilet Cabin LP_blue plastic_Metallic.png
